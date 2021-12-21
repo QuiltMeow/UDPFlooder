@@ -1,0 +1,10 @@
+G:\VSProject\UDPFlooder\UDP Flooder\bin\Release\UDP Flooder.exe.config
+G:\VSProject\UDPFlooder\UDP Flooder\bin\Release\UDP Flooder.exe
+G:\VSProject\UDPFlooder\UDP Flooder\bin\Release\UDP Flooder.pdb
+G:\VSProject\UDPFlooder\UDP Flooder\obj\Release\UDP Flooder.csprojAssemblyReference.cache
+G:\VSProject\UDPFlooder\UDP Flooder\obj\Release\UDP_Flooder.MainForm.resources
+G:\VSProject\UDPFlooder\UDP Flooder\obj\Release\UDP_Flooder.Properties.Resources.resources
+G:\VSProject\UDPFlooder\UDP Flooder\obj\Release\UDP Flooder.csproj.GenerateResource.cache
+G:\VSProject\UDPFlooder\UDP Flooder\obj\Release\UDP Flooder.csproj.CoreCompileInputs.cache
+G:\VSProject\UDPFlooder\UDP Flooder\obj\Release\UDP Flooder.exe
+G:\VSProject\UDPFlooder\UDP Flooder\obj\Release\UDP Flooder.pdb
